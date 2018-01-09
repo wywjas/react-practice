@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name":  "Daniel",
+      "title": "Sale Manager",
+      "email": "dan@example.com",
+      "phone": "(82) 6127-7017"
+    }
+     {
+      "name":  "May",
+      "title": "Sale Reps",
+      "email": "may@example.com",
+      "phone": "(82) 6127-7234"
+    }
+     {
+      "name":  "Jasmine",
+      "title": "Account Manager",
+      "email": "jasmine@example.com",
+      "phone": "(82) 6127-2345"
+    }
+     {
+      "name":  "Sam",
+      "title": "Sale Manager",
+      "email": "sam@example.com",
+      "phone": "(82) 6127-7653"
+    }
+     {
+      "name":  "Lee",
+      "title": "Sale Director",
+      "email": "lee@example.com",
+      "phone": "(82) 6127-3243"
+    }
+  ]
+}
